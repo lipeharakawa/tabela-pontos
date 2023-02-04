@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A Tabela de Pontos mostra a classificação dos jogadores de acordo com seus pontos, clicando nos botões de "Vitória", "Empate" ou "Derrota" os pontos da tabela são manipulados de acordo com as ações de cada botão, sendo +3 pontos para vitória, +1 ponto para empate e 0 ponto para derrota.
 
-- [ Visite o projeto online ]()
+- [ Visite o projeto online ](https://lipeharakawa.github.io/tabela_pontos-html-css-js)
 
 ## 🔖 Layout
 

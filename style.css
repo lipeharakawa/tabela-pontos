@@ -2,7 +2,7 @@
     text-align: center;
 }
   
-body {
+body{
     font-family: "Roboto Mono", monospace;
     min-height: 400px;
     background-image: url("https://www.alura.com.br/assets/img/imersoes/dev-2021/tabela-classificacao-bg.png");
@@ -12,51 +12,46 @@ body {
     background-repeat: no-repeat;
 }
   
-.container {
-    text-align: center;
-    padding: 20px;
-    height: 100vh;
-}
-  
-.page-title {
-    color: #ffffff;
-    margin: 0 0 5px;
-}
-  
-.page-subtitle {
-    color: #ffffff;
-    margin-top: 5px;
-}
-  
-.page-logo {
-    width: 200px;
-}
-  
-.alura-logo {
-    width: 40px;
-    position: absolute;
-    top: 10px;
-    right: 10px;
-}
-  
-table {
+table{
     border: 2px solid white;
     border-collapse: collapse;
 }
   
-h1 {
+h1{
     color: white;
 }
   
 th,
 tr,
-td {
+td{
     border: solid 1px white;
     color: white;
 }
   
-button {
+button{
     background-color: #002351;
     color: #f6f6f6;
 }
-  
+
+table{
+    width: 100%;
+}
+
+
+@media screen and (max-width: 480px){
+    .content{
+        width: 94%;
+        margin-left: 10px;
+    }
+    table thead{display:none;}
+    table tbody td{display: flex; flex-direction: column; }
+}
+
+@media only screen and (min-width: 1200px){
+    .content{width:100%;}
+    table tbody tr td:nth-child(1){width:10%;}
+    table tbody tr td:nth-child(2){width:30%;}
+    table tbody tr td:nth-child(3){width:20%;}
+    table tbody tr td:nth-child(4){width:10%;}
+    table tbody tr td:nth-child(5){width:30%;}
+}

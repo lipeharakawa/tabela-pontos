@@ -1,4 +1,4 @@
-<h1 align="center"> Tabela de Pontos </h1>
+<h1 align="center">Tabela de Pontos</h1>
 
 <p align="center">
 Imersão Dev é um evento exclusivo e gratuito, promovido pela Alura para ensino de tecnologias WEB. <br/>
@@ -32,9 +32,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A Tabela de Pontos mostra a classificação dos jogadores de acordo com seus pontos, clicando nos botões de "Vitória", "Empate" ou "Derrota" os pontos da tabela são manipulados de acordo com as ações de cada botão, sendo +3 pontos para vitória, +1 ponto para empate e 0 ponto para derrota.
+A Tabela de Pontos mostra a classificação dos jogadores de acordo com seus pontos, clicando nos botões de "Vitória", "Empate" ou "Derrota". Os pontos da tabela são manipulados de acordo com as ações de cada botão, sendo +3 pontos para vitória, +1 ponto para empate e 0 ponto para derrota.
 
-- [ Visite o projeto online ](https://lipeharakawa.github.io/tabela_pontos-html-css-js)
+- [ Visite o projeto online ](https://lipeharakawa.github.io/tabela-pontos)
 
 ## 🔖 Layout
 
@@ -46,4 +46,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com 🧡 por Felipe Seidi Harakawa, durante o evento Imersão Dev da Alura. [ Visite o site! ](https://www.alura.com.br)
+Feito com ❤️ por Felipe Seidi Harakawa, durante o evento Imersão Dev da Alura. [ Visite o site! ](https://www.alura.com.br)
